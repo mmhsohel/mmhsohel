@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**mmhsohel/mmhsohel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sohel 👋
 
-Here are some ideas to get you started:
+### Full-Stack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build modern, scalable, and maintainable web applications with a focus on frontend development, backend engineering, database design, and SaaS architecture.
+
+- 🔭 Currently working on full-stack SaaS applications.
+- 🌱 Exploring scalable backend architecture, Redis, and Docker.
+- 💻 Interested in Next.js, Node.js, and PostgreSQL.
+- 🎯 Looking for opportunities as a Junior Full-Stack or Backend Developer.
+- 📍 Based in Chattogram, Bangladesh.
+
+### 🛠️ Technologies & Tools
+
+**Frontend**
+- JavaScript, TypeScript
+- React.js, Next.js
+- HTML5, CSS3, Tailwind CSS
+
+**Backend**
+- Node.js, Express.js
+- REST APIs
+- Authentication, RBAC
+
+**Database & ORM**
+- PostgreSQL, MongoDB
+- Prisma ORM
+
+**Tools & Platforms**
+- Git, GitHub
+- Docker, Redis (learning)
+- Netlify, Render
+
+### 🚀 Featured Projects
+
+**1. StudioSpace**
+- Studio discovery and booking platform.
+- Next.js, Express.js, MongoDB.
+- Image upload and deployment.
+
+**2. BazarDor**
+- Web application built with Next.js and React.
+- Authentication and application development.
+
+### 📫 Connect With Me
+
+- LinkedIn: https://github.com/mmhsohel/mmhsohel
+- GitHub: https://github.com/mmhsohel
+- Portfolio: 
+
+---
+*Building, learning, and improving every day.*
