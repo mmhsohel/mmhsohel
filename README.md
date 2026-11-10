@@ -45,9 +45,8 @@ I build modern, scalable, and maintainable web applications with a focus on fron
 
 ### 📫 Connect With Me
 
-- LinkedIn: https://github.com/mmhsohel/mmhsohel
+- LinkedIn: https://www.linkedin.com/in/mmh-sohel-2b9648348/
 - GitHub: https://github.com/mmhsohel
-- Portfolio: 
 
 ---
 *Building, learning, and improving every day.*
